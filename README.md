@@ -1,4 +1,4 @@
-# Hi, I'm Mamduh5 – Crafting Web & Game Experiences! 👋
+# Hi, I'm Mamduh – Crafting Web & Game Experiences! 👋
 
 I'm a passionate **programmer** diving deep into the world of web development and game creation.
 
