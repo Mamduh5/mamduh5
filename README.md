@@ -2,6 +2,7 @@
 
 I'm a passionate **programmer** diving deep into the world of web development and game creation.
 
+![Mamduh's Profile Picture](images/profile_pic.png)
 ## 🚀 About Me
 - 🌱 Currently exploring **Node.js**, **React** and **MySQL**, building creative solutions and applications.
 - 🎮 Working on my first web app game: [HamsterThief](https://github.com/Mamduh5/HamsterThief) — a fun project where I'm learning tons about building games.
