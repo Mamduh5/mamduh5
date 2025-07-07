@@ -31,6 +31,10 @@ I like cats, but can't raise one (yet!). Maybe a virtual cat game is in my futur
 
 ---
 
+## Visitor
+![Profile Views](https://hits.sh/github.com/Mamduh5/Mamduh5/README.md.svg?style=flat&label=Profile%20Views&color=blue)
+---
+
 ## 📫 Connect with Me
 - [GitHub: Mamduh5](https://github.com/Mamduh5)
 
