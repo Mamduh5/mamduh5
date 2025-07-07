@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mamduh5! 👋
 
-<!--
-**Mamduh5/mamduh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **programmer** diving deep into the world of web development and game creation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently exploring Node.js and MySQL, building creative solutions and apps.
+- 🎮 Working on my first web app game: [HamsterThief](https://github.com/Mamduh5/HamsterThief) — a fun project where I'm learning tons about building games from scratch.
+- 🧠 Fascinated by psychology, always eager to learn how the mind works.
+- 🕹️ Gamer at heart, always up for a new challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Top Skills
+- **Node.js**
+- **MySQL**
+
+## 🌟 Featured Project
+### [HamsterThief](https://github.com/Mamduh5/HamsterThief)
+> My very first web app game in the making! Join me as I learn and build something fun and exciting.
+
+## 😺 Fun Fact
+I like cats, but can't raise one (yet!).
+
+## 📫 Connect with Me
+- [GitHub: Mamduh5](https://github.com/Mamduh5)
+
+---
+
+Thanks for stopping by! 🚀
