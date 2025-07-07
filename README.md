@@ -31,7 +31,6 @@ I like cats, but can't raise one (yet!). Maybe a virtual cat game is in my futur
 
 ## 📫 Connect with Me
 - [GitHub: Mamduh5](https://github.com/Mamduh5)
-- [LinkedIn: Your LinkedIn Profile (if you have one)](https://www.linkedin.com/in/yourprofile) Feel free to reach out for collaborations or just to chat about tech, games, or anything!
 
 ---
 
