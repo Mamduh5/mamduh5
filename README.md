@@ -21,14 +21,14 @@ I'm a passionate **programmer** diving deep into the world of web development an
 ![Mamduh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamduh5&layout=compact&theme=radical&hide_title=true)
 ---
 
+## 📈 GitHub Stats
+![Mamduh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamduh5&show_icons=true&theme=radical&hide_title=true)
+---
+
 ## 🌟 Featured Project
 ### [HamsterThief](https://github.com/Mamduh5/HamsterThief)
 > My very first web app game in the making! Join me as I learn and build something fun and exciting.
 
----
-
-## 📈 GitHub Stats
-![Mamduh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamduh5&show_icons=true&theme=radical&hide_title=true)
 ---
 
 ## 😺 Fun Fact
@@ -42,7 +42,7 @@ I like cats, but can't raise one (yet!). Maybe a virtual cat game is in my futur
 
 ## 📫 Connect with Me
 - [GitHub: Mamduh5](https://github.com/Mamduh5)
-
+- [LinkedIn: Your Name](https://www.linkedin.com/in/mamduh-hayihama-54136b363/)
 ---
 
 Thanks for stopping by! 🚀
