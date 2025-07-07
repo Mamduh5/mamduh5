@@ -17,7 +17,7 @@ I'm a passionate **programmer** diving deep into the world of web development an
 
 ---
 
-## Most Used Languages
+## ⚙️ Most Used Languages
 ![Mamduh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamduh5&layout=compact&theme=radical&hide_title=true)
 ---
 
@@ -36,7 +36,7 @@ I like cats, but can't raise one (yet!). Maybe a virtual cat game is in my futur
 
 ---
 
-## Visitor
+## 👀 Visitor
 ![Profile Views](https://hits.sh/github.com/Mamduh5/Mamduh5/README.md.svg?style=flat&label=Profile%20Views&color=blue)
 ---
 
