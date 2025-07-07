@@ -2,7 +2,7 @@
 
 I'm a passionate **programmer** diving deep into the world of web development and game creation.
 
-![Mamduh's Profile Picture](images/profile_pic.png)
+![Mamduh's Profile Picture](images/Mypic.png)
 
 ## 🚀 About Me
 - 🌱 Currently exploring **Node.js**, **React** and **MySQL**, building creative solutions and applications.
