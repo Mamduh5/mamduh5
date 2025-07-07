@@ -3,8 +3,8 @@
 I'm a passionate **programmer** diving deep into the world of web development and game creation.
 
 ## 🚀 About Me
-- 🌱 Currently exploring **Node.js** and **MySQL**, building creative solutions and applications.
-- 🎮 Working on my first web app game: [HamsterThief](https://github.com/Mamduh5/HamsterThief) — a fun project where I'm learning tons about building games from scratch.
+- 🌱 Currently exploring **Node.js**, **React** and **MySQL**, building creative solutions and applications.
+- 🎮 Working on my first web app game: [HamsterThief](https://github.com/Mamduh5/HamsterThief) — a fun project where I'm learning tons about building games.
 - 🧠 Fascinated by psychology, always eager to learn how the mind works.
 - 🕹️ Gamer at heart, always up for a new challenge.
 
