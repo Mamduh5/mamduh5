@@ -14,6 +14,8 @@ I'm a passionate **programmer** diving deep into the world of web development an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Mamduh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamduh5&layout=compact&theme=radical&hide_title=true)
 ---
 
 ## 🌟 Featured Project
