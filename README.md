@@ -42,7 +42,7 @@ I like cats, but can't raise one (yet!). Maybe a virtual cat game is in my futur
 
 ## 📫 Connect with Me
 - [GitHub: Mamduh5](https://github.com/Mamduh5)
-- [LinkedIn: Your Name](https://www.linkedin.com/in/mamduh-hayihama-54136b363/)
+- [LinkedIn: Mamduh](https://www.linkedin.com/in/mamduh-hayihama-54136b363/)
 ---
 
 Thanks for stopping by! 🚀
