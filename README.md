@@ -29,6 +29,8 @@ I'm a passionate **programmer** diving deep into the world of web development an
 ### [HamsterThief](https://github.com/Mamduh5/HamsterThief)
 > My very first web app game in the making! Join me as I learn and build something fun and exciting.
 
+### [Lerning-Go](https://github.com/Mamduh5/Lerning-Go)
+> Lerning Go from scratch
 ---
 
 ## 😺 Fun Fact
